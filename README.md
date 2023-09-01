@@ -1,2 +1,2 @@
-# imersao_dados_ia
+# Imersão Dados com IA
 Repositório para a imersão de dados com IA da Alura.
