@@ -14,7 +14,7 @@ Você pode fazer um `git clone` do repositório para a sua máquina e rodar em s
 
 Além disso, o notebook está online no link a seguir:
 - [Notebook da AED da base da Amazon](https://colab.research.google.com/drive/1XN-13HrlrdZG7YyEKLFs_StEZF1RtRxC?usp=sharing)
-- 
+  
 ## Licença
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
