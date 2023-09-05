@@ -13,7 +13,8 @@ Por enquanto, a única aula disponível é a de número #01. O repositório já 
 Você pode fazer um `git clone` do repositório para a sua máquina e rodar em sua ferramenta de preferência.
 
 Além disso, o notebook está online no link a seguir:
-- [Notebook da AED da base da Amazon](https://colab.research.google.com/drive/1XN-13HrlrdZG7YyEKLFs_StEZF1RtRxC?usp=sharing)
+- [Notebook da AED da base da Amazon - aula 01](https://colab.research.google.com/drive/1XN-13HrlrdZG7YyEKLFs_StEZF1RtRxC?usp=sharing)
+- [Notebook da AED da base da IMDb - aula 01 (desafio) ](https://colab.research.google.com/drive/1vIBNy2ytDMrP7lj1rX92hsIqR2zJD36_?usp=sharing)
   
 ## Licença
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
